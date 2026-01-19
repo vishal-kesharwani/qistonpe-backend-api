@@ -41,6 +41,6 @@
 - Sample vendor → PO → payment flow
 
 ## Time Breakdown
-- DB Design: X hrs
-- API Dev: X hrs
-- Testing: X hrs
+- DB Design: 2 hrs
+- API Dev: 2hrs
+- Testing: 1 hrs
