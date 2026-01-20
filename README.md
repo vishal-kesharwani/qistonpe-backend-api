@@ -3,8 +3,8 @@
 ## Tech Stack
 - NestJS
 - TypeScript
-- PostgreSQL / MySQL
-- TypeORM / Prisma
+- PostgreSQL 
+- TypeORM
 
 ## Setup Instructions
 - Node.js v18+
